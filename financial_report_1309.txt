@@ -1,0 +1,11 @@
+Financial Report - Generated on 2025-09-14 03:55:51.300574
+💵 Total Income: ₹5000.0
+💸 Total Expenses: ₹4200.0
+💰 Net Savings: ₹800.0
+
+📒 Transactions:
+1. 💰 Amount: ₹500.0 | 🏷️ Category: Food
+2. 💰 Amount: ₹2000.0 | 🏷️ Category: Rent
+3. 💰 Amount: ₹700.0 | 🏷️ Category: Movie
+4. 💰 Amount: ₹1000.0 | 🏷️ Category: Date
+#You are advised to keep this file safe and secure.#
